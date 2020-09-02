@@ -1,0 +1,58 @@
+import CA from './AC.svg';
+import DA from './AD.svg';
+import HA from './AH.svg';
+import SA from './AS.svg';
+import C2 from './2C.svg';
+import D2 from './2D.svg';
+import H2 from './2H.svg';
+import S2 from './2S.svg';
+import C3 from './3C.svg';
+import D3 from './3D.svg';
+import H3 from './3H.svg';
+import S3 from './3S.svg';
+import C4 from './4C.svg';
+import D4 from './4D.svg';
+import H4 from './4H.svg';
+import S4 from './4S.svg';
+import C5 from './5C.svg';
+import D5 from './5D.svg';
+import H5 from './5H.svg';
+import S5 from './5S.svg';
+import C6 from './6C.svg';
+import D6 from './6D.svg';
+import H6 from './6H.svg';
+import S6 from './6S.svg';
+import C7 from './7C.svg';
+import D7 from './7D.svg';
+import H7 from './7H.svg';
+import S7 from './7S.svg';
+import C8 from './8C.svg';
+import D8 from './8D.svg';
+import H8 from './8H.svg';
+import S8 from './8S.svg';
+import C9 from './9C.svg';
+import D9 from './9D.svg';
+import H9 from './9H.svg';
+import S9 from './9S.svg';
+import C10 from './10C.svg';
+import D10 from './10D.svg';
+import H10 from './10H.svg';
+import S10 from './10S.svg';
+import CJ from './JC.svg';
+import DJ from './JD.svg';
+import HJ from './JH.svg';
+import SJ from './JS.svg';
+import CQ from './QC.svg';
+import DQ from './QD.svg';
+import HQ from './QH.svg';
+import SQ from './QS.svg';
+import CK from './KC.svg';
+import DK from './KD.svg';
+import HK from './KH.svg';
+import SK from './KS.svg';
+
+const cards = [[CA, 1], [DA, 1], [HA, 1], [SA, 1], [C2, 2], [D2, 2], [H2, 2], [S2, 2], [C3, 3], [D3, 3], [H3, 3], [S3, 3], [C4, 4], [D4, 4], [H4, 4], [S4, 4], [C5, 5], [D5, 5], [H5, 5], [S5, 5], [C6, 6], [D6, 6], [H6, 6], [S6, 6], [C7, 7], [D7, 7], [H7, 7], [S7, 7], [C8, 8], [D8, 8], [H8, 8], [S8, 8], [C9, 9], [D9, 9], [H9, 9], [S9, 9], [C10, 10], [D10, 10], [H10, 10], [S10, 10], [CJ, 11], [DJ, 11], [HJ, 11], [SJ, 11], [CQ, 12], [DQ, 12], [HQ, 12], [SQ, 12], [CK, 13], [DK, 13], [HK, 13], [SK, 13]];
+
+export default cards;
+
+
